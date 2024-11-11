@@ -1,5 +1,7 @@
 # Hi, I'm David! 👋
 
+![LinkedIn Cover](linkedinCover.jpg)
+
 ## Full Stack Developer | Designer | Entrepreneur 🚀
 
 I am a **Full Stack** developer with a strong passion for **front-end** and **design**. My career has been a combination of **technology**, **design**, and **international business**, allowing me to approach projects with an integrated and creative mindset.
